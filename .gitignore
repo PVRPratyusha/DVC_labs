@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+
+# GCP Credentials
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# DVC
+/data/CC_GENERAL.csv
