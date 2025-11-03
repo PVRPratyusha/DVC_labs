@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gs://dvc-labs
+    credentialpath = ../smiling-wind-476518-v7-365f258b6f2d.json
