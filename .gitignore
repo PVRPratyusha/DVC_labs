@@ -19,3 +19,6 @@ __pycache__/
 
 # DVC
 /data/CC_GENERAL.csv
+
+# Allow metrics files
+!results/metrics.json
